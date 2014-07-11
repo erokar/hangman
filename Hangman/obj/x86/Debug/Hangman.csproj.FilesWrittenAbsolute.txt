@@ -1,0 +1,5 @@
+/Users/ero/Dropbox/utvikling/csharp/Hangman/Hangman/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ero/Dropbox/utvikling/csharp/Hangman/Hangman/bin/Debug/Hangman.exe.mdb
+/Users/ero/Dropbox/utvikling/csharp/Hangman/Hangman/bin/Debug/Hangman.exe
+/Users/ero/Dropbox/utvikling/csharp/Hangman/Hangman/obj/x86/Debug/Hangman.exe
+/Users/ero/Dropbox/utvikling/csharp/Hangman/Hangman/obj/x86/Debug/Hangman.exe.mdb
